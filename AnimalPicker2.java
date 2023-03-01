@@ -11,6 +11,6 @@ public class AnimalPicker2
         }
         else if (animal.equalsIgnoreCase("cat")){
             System.out.println("CAT ASCII ART HERE");
-        }
+        } 
     }
 }
